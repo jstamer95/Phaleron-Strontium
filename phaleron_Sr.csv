@@ -1,0 +1,368 @@
+"","ACL Number","burial.number","Specimen Number","87Sr/86Sr","88 Sr V","Sample Type","Tooth Category","material.type","sector","age.cat","sex.estimation","grave.type"
+"1","ACL-11788","IV_754","PHA-IV-754-2",0.707685372360803,30.8788810321907,"LRP2","P2","tooth","IV","young adult","male","single shackled"
+"2","ACL-11712","IV_187","PHA-IV-187-1",0.708210522244197,39.2964506159454,"LLM1","M1","tooth","IV","adult","possible male","CMB5"
+"3","ACL-11789","IV_758","PHA-IV-758-1",0.708230221069972,14.7601929999673,"LLM2","M2","tooth","IV","young-middle adult","male",NA
+"4","ACL-11718","IV_215","PHA-IV-215-2",0.708425297379532,17.1686915888855,"ULM2","M2","tooth","IV","middle adult","ambiguous","prone"
+"5","ACL-11407b","XI_1357","PBP-319",0.708512826356576,25.4147009537263,"ULC","C","tooth","XI","young adult","possible male","Esplanada Row 2"
+"6","ACL-11709","IV_174","PHA-IV-174-2",0.708530509973593,22.8037933427416,"URM2","M2","tooth","IV","middle adult","possible male",NA
+"7","ACL-11785","XI_1366","PBP-194",0.708692514094343,14.5320017480951,"ULI1","I1","tooth","XI","young adult","possible male","Esplanada Row 1"
+"8","ACL-11858","XI_1289","PBP-062",0.708692514094343,14.5320017480951,"r MT1",NA,"bone","XI","adult","male","Esplanada Row 1"
+"9","ACL-11933","IV_170","PHA-IV-170-1",0.708695660281381,14.8907712413592,"LLC","C","tooth","IV","adult","male","prone"
+"10","ACL-11934","IV_229","PHA-IV-229-2",0.708701737735313,21.3391841461766,"LRC","C","tooth","IV","adult","possible male",NA
+"11","ACL-11721","IV_225","PHA-IV-225-2",0.708704363518003,17.7569623069501,"ULM3","M3","tooth","IV","young adult","female",NA
+"12","ACL-11944","IV_489","PHA-IV-489-1",0.708712292801093,14.9006349847968,"ULM3","M3","tooth","IV","middle-old adult","possible male","CMB 3"
+"13","ACL-11756","IV_511","PHA-IV-511-2",0.708733534160885,19.8963486523607,"ULC","C","tooth","IV","adult","male",NA
+"14","ACL-11929","IV_037","PHA-IV-037-2",0.708741712476092,20.9717951630226,"ULM1","M1","tooth","IV","young adult","possible male",NA
+"15","ACL-11797","IX_827","PHA-IX-827-1",0.708744257579403,25.1101196253194,"URM2","M2","tooth","IX","young adult","possible male","CMB 8"
+"16","ACL-11918","IV_488","PHA-IV-488-1",0.708752944687732,31.305047217318,"URM3","M3","tooth","IV","young-middle adult","male","CMB 3"
+"17","ACL-11780","IV_637","PHA-IV-637-2",0.708761190130873,25.6702627511671,"URM2","M2","tooth","IV","young-middle adult","male","CMB 1"
+"18","ACL-11913","5_102","PHA-5-102-2",0.708765512496075,11.6872272040821,"LLM1","M1","tooth","5","young-middle adult","male",NA
+"19","ACL-11723","IV_234","PHA-IV-234-1",0.70877193229423,25.6784273944705,"URM2","M2","tooth","IV","young-middle adult","male","CMB3"
+"20","ACL-11782","IV_694","PHA-IV-694-2",0.708778721315957,NA,"LRM2","M2","tooth","IV","young adult","possible male",NA
+"21","ACL-11557","IX_829","PHA-IX-829-2",0.708783906165157,29.0440149257305,"ULM3","M3","tooth","IX","young adult","male",NA
+"22","ACL-10565","XI_1348","PBP-004",0.708786363748894,NA,"LRM1","M1","tooth","XI","young adult","possible male","Esplanada Row 1"
+"23","ACL-11409b","XI_1268","PBP-295",0.708786583864885,25.0000318180637,"LLC","C","tooth","XI","young adult","possible male","Esplanada Row 2"
+"24","ACL-11685","5_102","PHA-5-102-1",0.708810729818312,23.0208000190647,"ULM3","M3","tooth","5","young-middle adult","male",NA
+"25","ACL-10564","XI_1296","PBP-003",0.708811381969255,NA,"LLI1","I1","tooth","XI","young adult","indeterminate","Esplanada Row 1"
+"26","ACL-11404","XI_1245","PBP-041",0.708826002677014,26.0444443656146,"URM3","M3","tooth","XI","middle adult","indeterminate","Esplanada Row 1"
+"27","ACL-11952","IV_728","PHA-IV-728-2",0.708835404753356,12.9973573057732,"ULC","C","tooth","IV","young adult","possible female",NA
+"28","ACL-11927","5_166","PHA-5-166-1",0.708837767094585,14.8314091796446,"LRM1","M1","tooth","5","young-middle adult","possible male","single shackled"
+"29","ACL-11925","5_031","PHA-5-031-1",0.708840037729412,17.0150602804369,"ULM2","M2","tooth","5","adult","ambiguous","CMB 7"
+"30","ACL-11746","IV_431","PHA-IV-431-2",0.708850405778842,18.4027135058922,"URM2","M2","tooth","IV","middle-old adult","female",NA
+"31","ACL-10573","XI_1383","PBP-012",0.708852832443959,NA,"LLI2","I2","tooth","XI","adolescent/young adult","male","Esplanada Row 1"
+"32","ACL-10582","XI_1272","PBP-021",0.708872750250956,NA,"ULI1","I2","tooth","XI","adolescent/young adult","possible male","Esplanada Row 3"
+"33","ACL-10562","XI_1281","PBP-001",0.70889309970413,NA,"LLI1 in alveolar bone","I1","tooth","XI","young adult","male","Esplanada Row 1"
+"34","ACL-10576","XI_1267","PBP-015",0.70889309970413,NA,"ULI1","I1","tooth","XI","young adult","possible male","Esplanada Row 2"
+"35","ACL-11556","IV_578","PHA-IV-578-2",0.708897375177296,28.1871108495824,"LLM2","M2","tooth","IV","young-middle adult","possible female",NA
+"36","ACL-11914","IV_063","PHA-IV-063-1",0.708899394835296,10.1712889954132,"URM3","M3","tooth","IV","young adult","possible female","single shackled"
+"37","ACL-10574","XI_1228","PBP-013",0.708902793570754,NA,"LLC","C","tooth","XI","middle adult","possible male","Esplanada Row 2"
+"38","ACL-11893","XI_1289","PBP-061",0.708904543624946,19.2665184549764,"ULI2","I2","tooth","XI","adult","male","Esplanada Row 1"
+"39","ACL-11943","IV_487","PHA-IV-487-1",0.70891132453764,18.9480412821448,"URM2","M2","tooth","IV","young adult","ambiguous","CMB 3"
+"40","ACL-11889","XI_1343","PBP-116",0.708920713192717,18.6277698079064,"URC","C","tooth","XI","adult","indeterminate","Esplanada Row 1"
+"41","ACL-11406b","XI_1388","PBP-350",0.70892154436011,25.664139517949,"ULI1","I1","tooth","XI","middle adult","male","Esplanada Row 2"
+"42","ACL-11793","IV_782","PHA-IV-782-2",0.708926806477774,18.8368550364158,"LRM3","M3","tooth","IV","young adult","possible female",NA
+"43","ACL-10563","XI_1296","PBP-002",0.708929511712416,NA,"ULM2","M2","tooth","XI","young adult","indeterminate","Esplanada Row 1"
+"44","ACL-10567","XI_1356","PBP-006",0.708929672534277,NA,"LRC","C","tooth","XI","adult","possible male","Esplanada Row 1"
+"45","ACL-12039","IV_776","PHA-IV-776-2",0.708950100637961,30.96092359037,"URM1","M1","tooth","IV","young-middle adult","female",NA
+"46","ACL-11926","5_037","PHA-5-037-2",0.708951256531616,21.3073798282013,"ULM1","M1","tooth","5","young-middle adult","male",NA
+"47","ACL-10566","XI_1350","PBP-005",0.708951293649455,NA,"ULC","C","tooth","XI","middle adult","male","Esplanada Row 1"
+"48","ACL-11908","IV_380","PHA-IV-380-2",0.708962433637577,17.4411900411968,"URM1","M1","tooth","IV","adult","female",NA
+"49","ACL-11916","IV_220","PHA-IV-220-1",0.708963517390691,9.74593963335644,"LLM3","M3","tooth","IV","young-middle adult","female","prone"
+"50","ACL-11710","IV_180","PHA-IV-180-2",0.708963834105664,25.2665533554501,"LRM1","M1","tooth","IV","young-middle adult","male",NA
+"51","ACL-11411b","XI_1344","PBP-394",0.708966037672887,19.4553331714058,"LLP3","P2","tooth","XI","adult","possible male","Esplanada Row 3"
+"52","ACL-11744","IV_401","PHA-IV-401-2",0.708968406618368,28.4140952162737,"URM1","M1","tooth","IV","middle-old adult","possible male","double pit"
+"53","ACL-10572","XI_1383","PBP-011",0.708971325957638,NA,"URM3","M3","tooth","XI","adolescent/young adult","male","Esplanada Row 1"
+"54","ACL-11770","IV_564","PHA-IV-564-1",0.708978684676126,24.4311016759804,"LRM2","M2","tooth","IV","young adult","possible male","CMB 3"
+"55","ACL-11413b","XI_1384","PBP-402",0.708978736695325,20.733467022249,"LRP3","P2","tooth","XI","middle adult","possible male","Esplanada Row 3"
+"56","ACL-10581","XI_1272","PBP-020",0.708979368429094,NA,"URM2","M2","tooth","XI","adolescent/young adult","possible male","Esplanada Row 3"
+"57","ACL-10570","XI_1364","PBP-009",0.708987276852454,NA,"URI1","I1","tooth","XI","young adult","male","Esplanada Row 1"
+"58","ACL-11905","XI_1369","PBP-328",0.70899734889334,16.7905351408611,"ULP3","P1","tooth","XI","young adult","male","Esplanada Row 2"
+"59","ACL-11891","XI_1360","PBP-174",0.708997927072632,33.0760567527232,"URM2","M2","tooth","XI","adult","possible male","Esplanada Row 1"
+"60","ACL-10569","XI_1363","PBP-008",0.709000317430718,NA,"URM1","M1","tooth","XI","young adult","possible male","Esplanada Row 1"
+"61","ACL-11418b","XI_1271","PBP-365",0.709002522012544,23.5653041699119,"ULP3","P1","tooth","XI","adult","indeterminate","Esplanada Row 3"
+"62","ACL-10586","XI_1294","PBP-025",0.709004575932777,NA,"URI2","I2","tooth","XI","adult","indeterminate","Esplanada Row 3"
+"63","ACL-11897","XI_1355","PBP-154",0.709012141737057,16.6849536022352,"ULI2 (URI2)","I2","tooth","XI","young adult","male","Esplanada Row 1"
+"64","ACL-11761","IV_553","PHA-IV-553-1",0.709017285995219,24.7877695758901,"URM2","M2","tooth","IV","young adult","male","CMB 3"
+"65","ACL-11719","IV_220","PHA-IV-220-2",0.709023744084921,29.6062942259658,"LRM1","M1","tooth","IV","young-middle adult","female","prone"
+"66","ACL-11390b","XI_1339","PBP-102",0.709029071565005,NA,"ULC","C","tooth","XI","adult","male","Esplanada Row 1"
+"67","ACL-11931","IV_137","PHA-IV-137-2",0.709039720225556,17.4138618976262,"URM2","M2","tooth","IV","young-middle adult","female",NA
+"68","ACL-11745","IV_428","PHA-IV-428-2",0.709042352718518,26.08921062113,"LRC","C","tooth","IV","old adult","male",NA
+"69","ACL-11749","IV_485","PHA-IV-485-1",0.709048786050966,16.9158262318442,"ULP1","P1","tooth","IV","young-middle adult","male","CMB 3"
+"70","ACL-11392b","XI_1373","PBP-203",0.709049236882826,22.5923116298457,"LRI1","I1","tooth","XI","young adult","possible male","Esplanada Row 1"
+"71","ACL-11706","IV_147","PHA-IV-147-3",0.709053426172337,16.7805712763903,"URM1","M1","tooth","IV","young adult","possible female",NA
+"72","ACL-10579","XI_1389","PBP-018",0.709056289994114,NA,"URM2","M2","tooth","XI","adult","possible male","Esplanada Row 2"
+"73","ACL-11399b","XI_1380","PBP-238",0.709059971606915,19.2009714077383,"URM1","M1","tooth","XI","adolescent/young adult","possible male","Esplanada Row 1"
+"74","ACL-10568","XI_1359","PBP-007",0.709067052545895,NA,"ULI1","I1","tooth","XI","young adult","male","Esplanada Row 1"
+"75","ACL-11919","IV_488","PHA-IV-488-2",0.709067077239263,27.1537702457768,"URM1","M1","tooth","IV","young-middle adult","male","CMB 3"
+"76","ACL-10583","XI_1272","PBP-022",0.709069021455576,NA,"LRI1","I2","tooth","XI","adolescent/young adult","possible male","Esplanada Row 3"
+"77","ACL-11946","IV_565","PHA-IV-565-1",0.709069701200324,18.6259936225189,"URM3","M3","tooth","IV","middle adult","male","CMB 3"
+"78","ACL-11393b","XI_1336","PBP-094",0.709075993301212,11.5633737830893,"URP3","P2","tooth","XI","young adult","indeterminate","Esplanada Row 1"
+"79","ACL-11920","IV_560","PHA-IV-560-1",0.709076522209159,35.0122394343867,"ULM3","M3","tooth","IV","young adult","male","CMB 3"
+"80","ACL-10571","XI_1365","PBP-010",0.709076542300673,NA,"LLM1","M1","tooth","XI","adolescent/young adult","possible male","Esplanada Row 1"
+"81","ACL-11937","IV_255","PHA-IV-255-2",0.709082853844465,17.235152214158,"URC","C","tooth","IV","young adult","male",NA
+"82","ACL-11772","IV_565","PHA-IV-565-2",0.70908495018811,27.9631104544865,"L. 4th rib head",NA,"bone","IV","middle adult","male","CMB 3"
+"83","ACL-11747","IV_482","PHA-IV-482-2",0.709086570511007,27.5865985746373,"ULM2","M2","tooth","IV","young-middle adult","male",NA
+"84","ACL-11935","IV_232","PHA-IV-232-2",0.709086803162062,NA,"LRC","C","tooth","IV","young-middle adult","male","prone"
+"85","ACL-11699","IV_027","PHA-IV-027-1",0.709089560356866,30.4824185195283,"URC","C","tooth","IV","middle-old adult","male",NA
+"86","ACL-11395b","XI_1374","PBP-209",0.709089920793493,26.8172242222858,"LLC","C","tooth","XI","middle adult","male","Esplanada Row 1"
+"87","ACL-11954","IV_743","PHA-IV-743-1",0.709091490977283,26.2989297319444,"ULM3","M3","tooth","IV","adult","possible female",NA
+"88","ACL-11923","5_135","PHA-5-135-1",0.709095212520791,32.1557405007014,"LLM3","M3","tooth","5","young adult","male","prone"
+"89","ACL-11412b","XI_1333","PBP-391",0.709095614351515,23.0005306169441,"LLC","C","tooth","XI","young adult","possible male","Esplanada Row 3"
+"90","ACL-11400b","XI_1325","PBP-084",0.709097244878149,26.4831204274126,"URM1","M1","tooth","XI","adult","possible male","Esplanada Row 1"
+"91","ACL-11743","IV_400","PHA-IV-400-2",0.709097957062047,11.1393461283819,"ULM1","M1","tooth","IV","adult","male","double pit"
+"92","ACL-11910","IV_400","PHA-IV-400-3",0.709098115844997,9.51039842760748,"LLM3","M3","tooth","IV","adult","male","double pit"
+"93","ACL-11414b","XI_1332","PBP-388",0.709099865306122,16.5618996442374,"URP3","P2","tooth","XI","young adult","indeterminate","Esplanada Row 3"
+"94","ACL-11415b","XI_1332","PBP-389",0.709101108313894,21.531223452004,"LRC","C","tooth","XI","young adult","indeterminate","Esplanada Row 3"
+"95","ACL-12089","IV_754","PHA-IV-754-1b",0.709101381784408,33.7342008400838,"left temporal fragment",NA,"bone","IV","young adult","male","single shackled"
+"96","ACL-11786","IV_734","PHA-IV-734-2",0.709101722074358,12.3123794987222,"URM1","M1","tooth","IV","young adult","possible female","prone"
+"97","ACL-11951","IV_703","PHA-IV-703-1",0.709103035064385,16.5440311389983,"LRM2","M2","tooth","IV","middle adult","possible male",NA
+"98","ACL-11912","IV_734","PHA-IV-734-1",0.709104887605911,16.4918769265482,"LLM3","M3","tooth","IV","young adult","possible female","prone"
+"99","ACL-11955","IV_761","PHA-IV-761-1",0.709107842732498,16.2441162176637,"ULC","C","tooth","IV","young adult","female",NA
+"100","ACL-11890","XI_1379","PBP-232",0.709115506091173,12.6245208510992,"URC","C","tooth","XI","young adult","male","Esplanada Row 1"
+"101","ACL-11725","IV_258","PHA-IV-258-1",0.709115651036456,28.4046060984192,"LRM2","M2","tooth","IV","adult","male","prone"
+"102","ACL-11692","5_181","PHA-5-181-1",0.709115794254001,20.1446448977022,"ULM2","M2","tooth","5","adult","possible male","CMB 7"
+"103","ACL-11941","IV_471","PHA-IV-471-2",0.709116359176769,13.6534467299094,"ULM1","M1","tooth","IV","young adult","possible male",NA
+"104","ACL-10577","XI_1371","PBP-016",0.709116949699174,NA,"URI1","I1","tooth","XI","young adult","possible male","Esplanada Row 2"
+"105","ACL-11401b","XI_1342","PBP-111",0.709117509789777,17.4374427868273,"URM1","M2","tooth","XI","adult","indeterminate","Esplanada Row 1"
+"106","ACL-10587","XI_1316","PBP-026",0.709120243277438,NA,"ULM3","M3","tooth","XI","adult","indeterminate","Esplanada Row 3"
+"107","ACL-10580","XI_1389","PBP-019",0.709120364110917,NA,"URM1","M1","tooth","XI","adult","possible male","Esplanada Row 2"
+"108","ACL-11310","XI_1298","PBP-313",0.709121977748297,35.5826760591323,"l patella",NA,"bone","XI","adult","male","Esplanada Row 2"
+"109","ACL-11307","XI_1268","PBP-299",0.709123391170639,NA,"fibula",NA,"bone","XI","young adult","possible male","Esplanada Row 2"
+"110","ACL-11948","IV_625","PHA-IV-625-2",0.709124436731011,15.9352832777553,"ULM1","M1","tooth","IV","young-middle adult","possible male",NA
+"111","ACL-11773","IV_581","PHA-IV-581-2",0.709125273652428,16.7280584096759,"ULM1","M1","tooth","IV","young adult","male",NA
+"112","ACL-11687","5_135","PHA-5-135-2",0.709126504669248,34.5217597217569,"URM1","M1","tooth","5","young adult","male","prone"
+"113","ACL-11928","5_193","PHA-5-193-1",0.709128116115474,21.9889025491463,"URM2","M2","tooth","5","young-middle adult","female",NA
+"114","ACL-11333","XI_1385","PBP-411",0.70912841607399,NA,"rib",NA,"bone","XI","non-adult","indeterminate","Esplanada Row 3"
+"115","ACL-12048","IV_174","PHA-IV-174-1b",0.709128437609388,29.3477506648056,"right temporal fragment",NA,"bone","IV","middle adult","possible male",NA
+"116","ACL-11915","IV_063","PHA-IV-063-2",0.709129348274195,NA,"URM1","M1","tooth","IV","young adult","possible female","single shackled"
+"117","ACL-11398b","XI_1381","PBP-244",0.709130048937773,20.0692273019267,"URI1","I1","tooth","XI","young adult","male","Esplanada Row 1"
+"118","ACL-11755","IV_489","PHA-IV-489-2",0.709130670298783,27.2742296323734,"L. 8th rib frag",NA,"bone","IV","middle-old adult","possible male","CMB 3"
+"119","ACL-11735","IV_372","PHA-IV-372-3",0.709130925548523,15.6631678395255,"LRM1","M1","tooth","IV","adult","male",NA
+"120","ACL-11758","IV_524","PHA-IV-524-2",0.709133226236992,26.3874169270266,"ULM1","M1","tooth","IV","young-middle adult","male",NA
+"121","ACL-11753","IV_487","PHA-IV-487-2",0.709135987866613,20.2538099583465,"L. 3rd rib frags 2x",NA,"bone","IV","young adult","ambiguous","CMB 3"
+"122","ACL-11909","IV_147","PHA-IV-147-2",0.709137135728346,16.6221737034864,"LLM3","M3","tooth","IV","young adult","possible female",NA
+"123","ACL-11707","IV_115","PHA-IV-115-1",0.709138934637782,19.5744781484283,"URM1","M1","tooth","IV","adult","ambiguous","prone"
+"124","ACL-11876","XI_1357","PBP-320",0.709140429654036,26.1768311043712,"right MC5",NA,"bone","XI","young adult","possible male","Esplanada Row 2"
+"125","ACL-10578","XI_1386","PBP-017",0.709142307147393,NA,"URI1","I1","tooth","XI","young adult","possible male","Esplanada Row 2"
+"126","ACL-11732","IV_356","PHA-IV-356-2",0.709142488044423,16.9781632494167,"LRM1","M1","tooth","IV","middle-old adult","female","prone"
+"127","ACL-12065","IV_431","PHA-IV-431-1b",0.70914272959081,35.2323541314756,"right temporal fragment",NA,"bone","IV","middle-old adult","female",NA
+"128","ACL-11751","IV_486","PHA-IV-486-1",0.709143029421799,26.4637292188459,"URI2","I2","tooth","IV","young adult","male","CMB 3"
+"129","ACL-11798","IX_827","PHA-IX-827-2",0.709143300461586,NA,"rib frag",NA,"bone","IX","young adult","possible male","CMB 8"
+"130","ACL-11917","IV_281","PHA-IV-281-1",0.709144334647049,32.6255066861624,"LRM3","M3","tooth","IV","middle-old adult","ambiguous","prone"
+"131","ACL-12074","IV_581","PHA-IV-581-1b",0.709145415735423,33.3095528604077,"left temporal (fragments)",NA,"bone","IV","young adult","male",NA
+"132","ACL-12056","IV_255","PHA-IV-255-1b",0.709145933314647,35.4320132018512,"right temporal fragment",NA,"bone","IV","young adult","male",NA
+"133","ACL-12092","IX_829","PHA-IX-829-1",0.709146673913771,33.7348228834174,"petrous fragment",NA,"bone","IX","young adult","male",NA
+"134","ACL-12044","IV_102","PHA-IV-102-1b",0.709147675785501,36.3151792081516,"right temporal (mastoid process)",NA,"bone","IV","middle-old adult","male",NA
+"135","ACL-11784","IV_719","PHA-IV-719-2",0.70914877967227,24.0018369065962,"ULM2","M2","tooth","IV","young-middle adult","male",NA
+"136","ACL-11879","XI_1388","PBP-352",0.709150036758554,30.9297544539756,"left ilium",NA,"bone","XI","middle adult","male","Esplanada Row 2"
+"137","ACL-11888","XI_1297","PBP-071",0.709150929645046,18.0544054383862,"ULM3 crown + root fragments","M3","tooth","XI","young adult","indeterminate","Esplanada Row 1"
+"138","ACL-11686","5_102","PHA-5-102-3",0.709152275102764,19.6804952089221,"2 L. 2nd rib frags",NA,"bone","5","young-middle adult","male",NA
+"139","ACL-11950","IV_674","PHA-IV-674-2",0.709153004031407,19.1421408400755,"URM2","M2","tooth","IV","adult","possible male",NA
+"140","ACL-11762","IV_553","PHA-IV-553-2",0.709154583593532,26.5003472676476,"R. rib frag",NA,"bone","IV","young adult","male","CMB 3"
+"141","ACL-11328","XI_1332","PBP-390",0.709154982349756,36.7224875406227,"r clavical",NA,"bone","XI","young adult","indeterminate","Esplanada Row 3"
+"142","ACL-11759","IV_531","PHA-IV-531-1",0.709155480426083,21.8708754751784,"LRM1","M1","tooth","IV","adult","indeterminate",NA
+"143","ACL-11731","IV_356","PHA-IV-356-1",0.709155613633261,26.4610567607958,"URM3","M3","tooth","IV","middle-old adult","female","prone"
+"144","ACL-11899","XI_1353","PBP-143",0.709156311213769,15.6040897064988,"URC","C","tooth","XI","young adult","indeterminate","Esplanada Row 1"
+"145","ACL-11901","XI_1340","PBP-106",0.709156506483585,16.4401805988593,"LLC","C","tooth","XI","young adult","male","Esplanada Row 1"
+"146","ACL-12053","IV_229","PHA-IV-229-1b",0.70915703295186,36.3304175849894,"right temporal fragment",NA,"bone","IV","adult","possible male",NA
+"147","ACL-12043","IV_037","PHA-IV-037-1b",0.709160047964145,37.4603439112715,"right temporal fragment",NA,"bone","IV","young adult","possible male",NA
+"148","ACL-11697","5_218","PHA-5-218-2",0.709160870507964,NA,"URM1","M1","tooth","5","young-middle adult","female","prone"
+"149","ACL-12051","IV_215","PHA-IV-215-1b",0.70916122980755,29.9312015939423,"left temporal (squama)",NA,"bone","IV","middle adult","ambiguous","prone"
+"150","ACL-11900","XI_1390","PBP-257",0.709165111278712,14.5420514038264,"LRC","C","tooth","XI","middle adult","possible male","Esplanada Row 1"
+"151","ACL-11771","IV_564","PHA-IV-564-2",0.709165625535886,20.0687421238315,"3 R 4th rib frags",NA,"bone","IV","young adult","possible male","CMB 3"
+"152","ACL-11922","IV_743","PHA-IV-743-2",0.709165748625953,30.4957951214804,"LLM1","M1","tooth","IV","adult","possible female",NA
+"153","ACL-12052","IV_225","PHA-IV-225-1b",0.709166560891649,35.8093692193866,"left temporal (mastoid process)",NA,"bone","IV","young adult","female",NA
+"154","ACL-11754","IV_488","PHA-IV-488-3",0.709166614831559,26.9063891383018,"8th L. rib tubercle",NA,"bone","IV","young-middle adult","male","CMB 3"
+"155","ACL-11727","IV_264","PHA-IV-264-2",0.709168065951254,21.4727141813735,"ULM2","M2","tooth","IV","young adult","possible female",NA
+"156","ACL-11769","IV_560","PHA-IV-560-3",0.709168273738976,27.2416637034777,"1 R 3rd rib frag",NA,"bone","IV","young adult","male","CMB 3"
+"157","ACL-11750","IV_485","PHA-IV-485-2",0.709168477553876,27.3313085054525,"3 L. rib frags",NA,"bone","IV","young-middle adult","male","CMB 3"
+"158","ACL-11796","IX_826","PHA-IX-826-3",0.709168591153301,31.4161328235667,"2 R. rib frags",NA,"bone","IX","young adult","male","CMB 8"
+"159","ACL-11729","IV_281","PHA-IV-281-2",0.709168966983476,16.9201434868935,"URM1","M1","tooth","IV","middle-old adult","ambiguous","prone"
+"160","ACL-11871","XI_1392","PBP-264",0.709169246867565,2.06279152104302,"right MT3",NA,"bone","XI","young adult","indeterminate","Esplanada Row 1"
+"161","ACL-11884","XI_1384","PBP-407",0.709169273444285,NA,"RIB FRAG",NA,"bone","XI","middle adult","possible male","Esplanada Row 3"
+"162","ACL-12062","IV_401","PHA-IV-401-1b",0.709169458583958,35.7289321905557,"right temporal (mastoid process)",NA,"bone","IV","middle-old adult","possible male","double pit"
+"163","ACL-11887","XI_1399","PBP-426",0.709169721060351,37.3454433023191,"right MT5",NA,"bone","XI","young adult","male","Esplanada Row 3"
+"164","ACL-11713","IV_187","PHA-IV-187-2",0.709170633340738,26.0795648733779,"R. rib frags 2X",NA,"bone","IV","adult","possible male","CMB5"
+"165","ACL-12073","IV_578","PHA-IV-578-1",0.709170895578595,33.2820959516576,"right petrous",NA,"bone","IV","young-middle adult","possible female",NA
+"166","ACL-11766","IV_556","PHA-IV-556-2",0.709171242760533,19.9017921987196,"2 rib frags",NA,"bone","IV","adult","possible male","CMB 3"
+"167","ACL-11752","IV_486","PHA-IV-486-2",0.709171634830775,25.9611117258355,"rib frag",NA,"bone","IV","young adult","male","CMB 3"
+"168","ACL-11940","IV_409","PHA-IV-409-2",0.709172500884011,19.1471787060149,"URM3","M3","tooth","IV","young adult","male","CMB 1"
+"169","ACL-11329","XI_1333","PBP-393",0.709173239070737,16.8954086541712,"fibula",NA,"bone","XI","young adult","possible male","Esplanada Row 3"
+"170","ACL-11768","IV_559","PHA-IV-559-2",0.709174905247247,26.488008739958,"rib frag",NA,"bone","IV","adult","male","CMB 3"
+"171","ACL-11722","IV_225","PHA-IV-225-3",0.709174924059454,12.9860262613228,"ULM1","M1","tooth","IV","young adult","female",NA
+"172","ACL-11892","XI_1358","PBP-163",0.709175177958402,16.6100563671001,"URP3","P1","tooth","XI","middle adult","male","Esplanada Row 1"
+"173","ACL-11863","XI_1297","PBP-072",0.709175269013839,25.2018791609721,"intermediate hand phalanx",NA,"bone","XI","young adult","indeterminate","Esplanada Row 1"
+"174","ACL-11416b","XI_1316","PBP-384",0.709176300109884,24.467126653772,"ULP3","P2","tooth","XI","adult","indeterminate","Esplanada Row 3"
+"175","ACL-11733","IV_356","PHA-IV-356-3",0.709177896726614,27.4667771954674,"2 rib frags",NA,"bone","IV","middle-old adult","female","prone"
+"176","ACL-11717","IV_204","PHA-IV-204-2",0.709177897431078,23.4767318207406,"URM2","M2","tooth","IV","young adult","female",NA
+"177","ACL-11736","IV_373","PHA-IV-373-1",0.709178230214006,16.6939119758518,"LLM2","M2","tooth","IV","young-middle adult","male","prone"
+"178","ACL-11924","5_218","PHA-5-218-1",0.709178687316356,33.4635902112748,"URM3","M3","tooth","5","young-middle adult","female","prone"
+"179","ACL-12054","IV_232","PHA-IV-232-1b",0.709178927920078,34.7563207017529,"right temporal (mastoid process)",NA,"bone","IV","young-middle adult","male","prone"
+"180","ACL-12067","IV_472","PHA-IV-472-1b",0.709179261088987,34.0284730468669,"left temporal fragment",NA,"bone","IV","young-middle adult","male",NA
+"181","ACL-12059","IV_372","PHA-IV-372-1b",0.70917960670371,34.7255036824719,"left temporal",NA,"bone","IV","adult","male",NA
+"182","ACL-11689","5_166","PHA-5-166-2",0.709179665024839,26.2247769197609,"rib frag",NA,"bone","5","young-middle adult","possible male","single shackled"
+"183","ACL-11777","IV_628","PHA-IV-628-1",0.709180754934944,33.5914126889679,"LRP1","P1","tooth","IV","adult","indeterminate","CMB 6"
+"184","ACL-11694","5_193","PHA-5-193-2",0.709180851122181,23.6540371605615,"rib frag",NA,"bone","5","young-middle adult","female",NA
+"185","ACL-11555","IV_620","PHA-IV-620-2",0.709182055721291,NA,"ULM1","M1","tooth","IV","young adult","possible male","CMB 1"
+"186","ACL-12046","IV_147","PHA-IV-147-1b",0.709182825922897,35.54474664353,"right petrous",NA,"bone","IV","young adult","possible female",NA
+"187","ACL-12068","IV_482","PHA-IV-482-1b",0.709183247991624,34.5481966327925,"left temporal fragment",NA,"bone","IV","young-middle adult","male",NA
+"188","ACL-11894","XI_1328","PBP-088",0.709183318193666,17.689874654589,"URI2","I2","tooth","XI","young adult","male","Esplanada Row 1"
+"189","ACL-12085","IV_719","PHA-IV-719-1b",0.709183893329673,34.2120099659146,"right temporal fragment",NA,"bone","IV","young-middle adult","male",NA
+"190","ACL-11724","IV_234","PHA-IV-234-2",0.709184175188429,26.7065339258839,"R. rib frag",NA,"bone","IV","young-middle adult","male","CMB3"
+"191","ACL-12049","IV_180","PHA-IV-180-1b",0.709184232218402,35.5716404603914,"right temporal fragment",NA,"bone","IV","young-middle adult","male",NA
+"192","ACL-11787","IV_743","PHA-IV-743-3",0.70918452773407,31.9527140521379,"rib frag",NA,"bone","IV","adult","possible female",NA
+"193","ACL-11275","XI_1339","PBP-104",0.709184648836164,18.9203786600458,"fibula",NA,"bone","XI","adult","male","Esplanada Row 1"
+"194","ACL-12061","IV_400","PHA-IV-400-1b",0.709184965467383,37.5640614619063,"right petrous fragment",NA,"bone","IV","adult","male","double pit"
+"195","ACL-12086","IV_728","PHA-IV-728-1b",0.709185092436835,34.003863136832,"right mastoid fragment",NA,"bone","IV","young adult","possible female",NA
+"196","ACL-11790","IV_758","PHA-IV-758-2",0.709185239397888,23.0495631286975,"r rib frag",NA,"bone","IV","young-middle adult","male",NA
+"197","ACL-12084","IV_694","PHA-IV-694-1b",0.709185264893205,28.1545001866415,"left temporal fragment",NA,"bone","IV","young adult","possible male",NA
+"198","ACL-11740","IV_380","PHA-IV-380-3",0.709185401069088,27.7268289327473,"2 rib frags",NA,"bone","IV","adult","female",NA
+"199","ACL-11864","XI_1342","PBP-113",0.709186423800381,35.5435544278679,"right rib (2/2)",NA,"bone","XI","adult","indeterminate","Esplanada Row 1"
+"200","ACL-11708","IV_170","PHA-IV-170-2",0.709186552067381,19.6550709450614,"3 rib frags",NA,"bone","IV","adult","male","prone"
+"201","ACL-11776","IV_623","PHA-IV-623-2",0.709186721492594,24.0960770535282,"LLM1","M1","tooth","IV","middle adult","possible female",NA
+"202","ACL-11684","5_031","PHA-5-031-2",0.709187691622667,32.6869779800032,"rib frag",NA,"bone","5","adult","ambiguous","CMB 7"
+"203","ACL-11886","XI_1400","PBP-431",0.709187892891627,37.5601167911063,"left fibula",NA,"bone","XI","adult","possible male","Esplanada Row 3"
+"204","ACL-11859","XI_1336","PBP-100",0.709188266692615,36.0648588003575,"R MT5",NA,"bone","XI","young adult","indeterminate","Esplanada Row 1"
+"205","ACL-12080","IV_637","PHA-IV-637-1b",0.709188744670592,NA,"left petrous",NA,"bone","IV","young-middle adult","male","CMB 1"
+"206","ACL-11906","XI_1368","PBP-322",0.709189053189842,15.3737554200083,"URI1","I1","tooth","XI","middle adult","possible male","Esplanada Row 2"
+"207","ACL-11704","IV_096","PHA-IV-096-2",0.709189078108151,26.1785373735127,"L. rib frag",NA,"bone","IV","young-middle adult","possible male","prone"
+"208","ACL-12088","IV_734","PHA-IV-734-1a",0.70918917466186,33.7879873133919,"left temporal fragment",NA,"bone","IV","young adult","possible female","prone"
+"209","ACL-11869","XI_1281","PBP-056",0.709189345390442,37.9379512693113,"prox. Hand phalanx (1/2)",NA,"bone","XI","young adult","male","Esplanada Row 1"
+"210","ACL-11783","IV_703","PHA-IV-703-2",0.709189831986263,32.4733627076478,"R. rib frag",NA,"bone","IV","middle adult","possible male",NA
+"211","ACL-11272","XI_1325","PBP-086",0.709190011389449,14.0921679256962,"r rib",NA,"bone","XI","adult","possible male","Esplanada Row 1"
+"212","ACL-12060","IV_378","PHA-IV-378-1b",0.709190460215692,28.065689758045,"left temporal (mastoid process)",NA,"bone","IV","young-middle adult","male","double pit"
+"213","ACL-12066","IV_471","PHA-IV-471-1b",0.709190834902939,27.635986671554,"left temporal (mastoid process)",NA,"bone","IV","young adult","possible male",NA
+"214","ACL-11726","IV_258","PHA-IV-258-2",0.709191068759624,NA,"R. 8th rib frag",NA,"bone","IV","adult","male","prone"
+"215","ACL-12071","IV_524","PHA-IV-524-1b",0.709191076915654,34.0162462432004,"right mastoid fragment",NA,"bone","IV","young-middle adult","male",NA
+"216","ACL-11693","5_181","PHA-5-181-2",0.709191199659577,25.8753716152048,"unidentified long bone frag",NA,"bone","5","adult","possible male","CMB 7"
+"217","ACL-12079","IV_625","PHA-IV-625-1b",0.70919130388258,33.4184778590092,"left temporal fragment",NA,"bone","IV","young-middle adult","possible male",NA
+"218","ACL-12385","XI_1201","PBP-031",0.709191370625584,NA,"rib",NA,"bone","XI","adult","indeterminate","Esplanada Row 1"
+"219","ACL-11315","XI_1370","PBP-339",0.709191527570613,17.0690244343607,"l rib",NA,"bone","XI","adult","possible male","Esplanada Row 2"
+"220","ACL-12063","IV_409","PHA-IV-409-1b",0.709191535331255,28.6588068217723,"temporal fragment",NA,"bone","IV","young adult","male","CMB 1"
+"221","ACL-12069","IV_511","PHA-IV-511-1b",0.709191549139118,28.3853767264077,"left temporal (mastoid process)",NA,"bone","IV","adult","male",NA
+"222","ACL-11861","XI_1215","PBP-039",0.709191983771001,36.7938019234904,"RIGHT RADIUS",NA,"bone","XI","adult","possible male","Esplanada Row 1"
+"223","ACL-11874","XI_1390","PBP-259",0.709192556855731,29.6391015381322,"fibula",NA,"bone","XI","middle adult","possible male","Esplanada Row 1"
+"224","ACL-11873","XI_1353","PBP-147",0.709192616460893,30.2604280803636,"right clavicle",NA,"bone","XI","young adult","indeterminate","Esplanada Row 1"
+"225","ACL-12077","IV_620","PHA-IV-620-1",0.709192651897878,34.084904692916,"right temporal",NA,"bone","IV","young adult","possible male","CMB 1"
+"226","ACL-12042","5_037","PHA-5-037-1a",0.709192777293775,20.6884550760573,"temporal",NA,"bone","5","young-middle adult","male",NA
+"227","ACL-11737","IV_373","PHA-IV-373-2",0.709192857496,26.7762640479037,"2 L. rib frags",NA,"bone","IV","young-middle adult","male","prone"
+"228","ACL-11299","XI_1380","PBP-242",0.709193214735742,35.4843892833951,"fibula",NA,"bone","XI","adolescent/young adult","possible male","Esplanada Row 1"
+"229","ACL-11300","XI_1381","PBP-249",0.709193397750254,14.5053186048459,"r clavical",NA,"bone","XI","young adult","male","Esplanada Row 1"
+"230","ACL-11903","XI_1383","PBP-271",0.709193572952871,30.528008151076,"fibula",NA,"bone","XI","adolescent/young adult","male","Esplanada Row 1"
+"231","ACL-11688","5_135","PHA-5-135-3",0.709193829260053,26.265352796646,"L. rib frag",NA,"bone","5","young adult","male","prone"
+"232","ACL-11862","XI_1247","PBP-045",0.709194134723832,36.2079807061299,"occipital",NA,"bone","XI","adult","indeterminate","Esplanada Row 1"
+"233","ACL-11742","IV_396","PHA-IV-396-2",0.709194151942958,20.3747482086192,"rib frag",NA,"bone","IV","middle-old adult","male",NA
+"234","ACL-11419b","XI_1275","PBP-370",0.709194359008142,25.2413520825101,"URM1","M1","tooth","XI","adult","indeterminate","Esplanada Row 3"
+"235","ACL-12091","IV_782","PHA-IV-782-1b",0.709194598246976,33.2532789511747,"right temporal fragment",NA,"bone","IV","young adult","possible female",NA
+"236","ACL-11278","XI_1343","PBP-117",0.709194664042157,24.0224563074289,"r distal fibula",NA,"bone","XI","adult","indeterminate","Esplanada Row 1"
+"237","ACL-11895","XI_1349","PBP-130",0.709194714153497,NA,"URP2","P2","tooth","XI","middle adult","male","Esplanada Row 1"
+"238","ACL-12064","IV_428","PHA-IV-428-1b",0.709194818747704,35.2540129272099,"right temporal fragment",NA,"bone","IV","old adult","male",NA
+"239","ACL-12072","IV_530","PHA-IV-530-1b",0.709194878720016,27.8657914139614,"left temporal fragment",NA,"bone","IV","young adult","male",NA
+"240","ACL-11868","XI_1365","PBP-192",0.709195205318368,35.7947068214535,"left humerus",NA,"bone","XI","adolescent/young adult","possible male","Esplanada Row 1"
+"241","ACL-11764","IV_555","PHA-IV-555-3",0.709195401150322,26.1900512371039,"rib frags",NA,"bone","IV","adult","possible male",NA
+"242","ACL-12058","IV_265","PHA-IV-265-1b",0.709196072774101,40.697464904308,"temporal fragment",NA,"bone","IV","young adult","male",NA
+"243","ACL-12090","IV_776","PHA-IV-776-1b",0.709196246465659,27.6315953443315,"right temporal fragment",NA,"bone","IV","young-middle adult","female",NA
+"244","ACL-11304","XI_1393","PBP-273",0.709196246685016,19.1544493754452,"Right Ischium",NA,"bone","XI","young adult","male","Esplanada Row 1"
+"245","ACL-11294","XI_1373","PBP-207",0.709196496240966,16.3328953184515,"scapula",NA,"bone","XI","young adult","possible male","Esplanada Row 1"
+"246","ACL-12057","IV_264","PHA-IV-264-1b",0.709196590504359,29.0508387512791,"temporal fragment",NA,"bone","IV","young adult","possible female",NA
+"247","ACL-11875","XI_1351","PBP-317",0.709196630834231,36.8095282713976,"prox. Hand phalanx",NA,"bone","XI","adult","male","Esplanada Row 2"
+"248","ACL-11705","IV_115","PHA-IV-115-2",0.709196769549467,25.8973948987705,"unidentified long bone frag",NA,"bone","IV","adult","ambiguous","prone"
+"249","ACL-11778","IV_628","PHA-IV-628-2",0.709196869069107,26.3935647536134,"rib frag",NA,"bone","IV","adult","indeterminate","CMB 6"
+"250","ACL-12047","IV_169","PHA-IV-169-1b",0.709197117228377,35.242249205323,"left temporal (mastoid process)",NA,"bone","IV","adult","ambiguous",NA
+"251","ACL-11321","XI_1271","PBP-366",0.709197404083456,35.9692642828058,"scapula",NA,"bone","XI","adult","indeterminate","Esplanada Row 3"
+"252","ACL-11268","XI_1296","PBP-068",0.709197603757793,NA,"r ulna",NA,"bone","XI","young adult","indeterminate","Esplanada Row 1"
+"253","ACL-12087","IV_733","PHA-IV-733-1b",0.709197705189686,27.9568532953777,"right temporal fragment",NA,"bone","IV","young adult","possible male",NA
+"254","ACL-11313","XI_1368","PBP-325",0.709197782399313,18.3060241114838,"fibula",NA,"bone","XI","middle adult","possible male","Esplanada Row 2"
+"255","ACL-12081","IV_646","PHA-IV-646-1b",0.709197783779561,24.7451548606811,"left temporal (mastoid process)",NA,"bone","IV","young adult","possible male",NA
+"256","ACL-11882","XI_1272","PBP-367",0.709198244261923,30.2903528455427,"fibula",NA,"bone","XI","adolescent/young adult","possible male","Esplanada Row 3"
+"257","ACL-11265","XI_1266","PBP-054",0.709198246943072,23.6675413118229,"scapula",NA,"bone","XI","young adult","possible male","Esplanada Row 1"
+"258","ACL-11877","XI_1228","PBP-283",0.709198267200926,37.3162493911446,"right MT1",NA,"bone","XI","middle adult","possible male","Esplanada Row 2"
+"259","ACL-11870","XI_1374","PBP-212",0.709198305590766,29.8576977794447,"tibia",NA,"bone","XI","middle adult","male","Esplanada Row 1"
+"260","ACL-12076","IV_619","PHA-IV-619-1b",0.709198433729768,33.542544904607,"left temporal (squama)",NA,"bone","IV","young adult","male","CMB 1"
+"261","ACL-11867","XI_1359","PBP-170",0.709198438559151,28.9709762449098,"left MT2",NA,"bone","XI","young adult","male","Esplanada Row 1"
+"262","ACL-11880","XI_1397","PBP-362",0.709198516454062,35.4807374330115,"fibula",NA,"bone","XI","adult","indeterminate","Esplanada Row 2"
+"263","ACL-11695","5_198","PHA-5-198-1",0.70919903224473,31.5686599617779,"URC","C","tooth","5","middle-old adult","male","prone"
+"264","ACL-11280","XI_1349","PBP-132",0.709199455475202,16.5386372915086,"l scapula",NA,"bone","XI","middle adult","male","Esplanada Row 1"
+"265","ACL-11297","XI_1376","PBP-221",0.709199516735557,17.0393384314829,"fibula",NA,"bone","XI","young adult","male","Esplanada Row 1"
+"266","ACL-11281","XI_1350","PBP-141",0.709199545767646,32.8989484855266,"l ulna",NA,"bone","XI","middle adult","male","Esplanada Row 1"
+"267","ACL-11264","XI_1253","PBP-050",0.709199581944621,33.2882252717738,"clavical",NA,"bone","XI","adult","indeterminate","Esplanada Row 1"
+"268","ACL-11779","IV_063","PHA-IV-063-3",0.709199645974654,19.9079436979704,"2 R rib frags",NA,"bone","IV","young adult","possible female","single shackled"
+"269","ACL-11883","XI_1316","PBP-387",0.709199695215051,37.5028899790414,"left MT5",NA,"bone","XI","adult","indeterminate","Esplanada Row 3"
+"270","ACL-12070","IV_521","PHA-IV-521-1b",0.709199834329508,33.9165754852432,"right mastoid fragment",NA,"bone","IV","young-middle adult","possible male",NA
+"271","ACL-11866","XI_1328","PBP-092",0.709200052809825,35.6251604245438,"fibula",NA,"bone","XI","young adult","male","Esplanada Row 1"
+"272","ACL-11323","XI_1275","PBP-371",0.709200179808044,22.4232135717191,"fibula",NA,"bone","XI","adult","indeterminate","Esplanada Row 3"
+"273","ACL-11276","XI_1340","PBP-107",0.709200204226837,18.052840105722,"fibula",NA,"bone","XI","young adult","male","Esplanada Row 1"
+"274","ACL-11298","XI_1379","PBP-234",0.709200359190734,19.1367874730694,"clavical",NA,"bone","XI","young adult","male","Esplanada Row 1"
+"275","ACL-11760","IV_531","PHA-IV-531-2",0.709200920122412,20.364121940568,"L. rib frag 2x",NA,"bone","IV","adult","indeterminate",NA
+"276","ACL-11701","IV_062","PHA-IV-062-1",0.709201098052492,22.8013197984234,"LRC","C","tooth","IV","middle-old adult","male","prone"
+"277","ACL-12045","IV_137","PHA-IV-137-1b",0.709201304146503,28.2685931960107,"left temporal fragement",NA,"bone","IV","young-middle adult","female",NA
+"278","ACL-11885","XI_1398","PBP-417",0.709201459406193,30.1306817044636,"right radius",NA,"bone","XI","young adult","indeterminate","Esplanada Row 3"
+"279","ACL-11290","XI_1363","PBP-185",0.70920162611864,19.2290033222354,"fibula",NA,"bone","XI","young adult","possible male","Esplanada Row 1"
+"280","ACL-11953","IV_733","PHA-IV-733-2",0.7092017166152,18.6993288895511,"LLM2","M2","tooth","IV","young adult","possible male",NA
+"281","ACL-11702","IV_062","PHA-IV-062-2",0.709201824527308,19.249931957157,"R 9th rib frag",NA,"bone","IV","middle-old adult","male","prone"
+"282","ACL-11878","XI_1386","PBP-343",0.709201850661014,33.1560554023649,"metatarsal shaft",NA,"bone","XI","young adult","possible male","Esplanada Row 2"
+"283","ACL-11331","XI_1371","PBP-398",0.709202536841616,36.2762879246438,"l MC2",NA,"bone","XI","young adult","possible male","Esplanada Row 2"
+"284","ACL-11774","XI_1382","PBP-255",0.709202778016898,34.1422809505294,"L MT1",NA,"bone","XI","young adult","male","Esplanada Row 1"
+"285","ACL-11285","XI_1356","PBP-161",0.709203427057726,22.2712334586499,"fibula",NA,"bone","XI","adult","possible male","Esplanada Row 1"
+"286","ACL-11326","XI_1294","PBP-382",0.70920430451199,36.7189698025608,"fibula",NA,"bone","XI","adult","indeterminate","Esplanada Row 3"
+"287","ACL-11865","XI_1267","PBP-290",0.709204507948436,20.0560896014334,"r rib head",NA,"bone","XI","young adult","possible male","Esplanada Row 2"
+"288","ACL-12050","IV_204","PHA-IV-204-1b",0.709204777236723,35.4492287559583,"left temporal fragement",NA,"bone","IV","young adult","female",NA
+"289","ACL-11261","XI_1202","PBP-034",0.709204948766926,27.1830166997809,"r scapula",NA,"bone","XI","adult","indeterminate","Esplanada Row 1"
+"290","ACL-11402b","XI_1266","PBP-052",0.709205116605724,17.4198215487882,"LLM2","M2","tooth","XI","young adult","possible male","Esplanada Row 1"
+"291","ACL-11698","5_218","PHA-5-218-3",0.709205239812815,26.3470929831612,"rib frag",NA,"bone","5","young-middle adult","female","prone"
+"292","ACL-11279","XI_1348","PBP-121",0.70920527879901,33.2526700229073,"r MT1",NA,"bone","XI","young adult","possible male","Esplanada Row 1"
+"293","ACL-11288","XI_1360","PBP-177",0.709205287832411,25.2427668627703,"fibula",NA,"bone","XI","adult","possible male","Esplanada Row 1"
+"294","ACL-11308","XI_1269","PBP-303",0.709205431065049,26.3203569598892,"rib",NA,"bone","XI","young adult","male","Esplanada Row 2"
+"295","ACL-12040","XI_1318","PBP-078",0.709205946280796,32.5482830405352,"prox. foot phalanx",NA,"bone","XI","adolescent/young adult","male","Esplanada Row 1"
+"296","ACL-11872","XI_1354","PBP-152",0.709206023775709,33.9883991001032,"prox. Hand phalanx",NA,"bone","XI","middle adult","indeterminate","Esplanada Row 1"
+"297","ACL-11945","IV_530","PHA-IV-530-2",0.709206459215674,15.3812570891022,"LLC","C","tooth","IV","young adult","male",NA
+"298","ACL-11720","IV_220","PHA-IV-220-3",0.709206904953156,19.7015415176888,"R rib frag (9?)",NA,"bone","IV","young-middle adult","female","prone"
+"299","ACL-11293","XI_1366","PBP-198",0.709207116242819,25.6913256604261,"r rib",NA,"bone","XI","young adult","possible male","Esplanada Row 1"
+"300","ACL-11711","XI_1369","PBP-333",0.709207231134413,35.0328023161711,"rib",NA,"bone","XI","young adult","male","Esplanada Row 2"
+"301","ACL-12041","XI_1358","PBP-165",0.709207340442387,33.7255120244062,"l rib",NA,"bone","XI","middle adult","male","Esplanada Row 1"
+"302","ACL-11284","XI_1355","PBP-157",0.709208232146738,24.504528562211,"fibula",NA,"bone","XI","young adult","male","Esplanada Row 1"
+"303","ACL-11691","5_167","PHA-5-167-2",0.70920833939385,19.4740863133791,"R. rib frag",NA,"bone","5","young adult","male",NA
+"304","ACL-11728","XI_1344","PBP-396",0.709208596145123,18.4102425311629,"prox. hand phalanx",NA,"bone","XI","adult","possible male","Esplanada Row 3"
+"305","ACL-11289","XI_1361","PBP-183",0.709209329908746,34.45915160442,"l MT1",NA,"bone","XI","middle adult","possible male","Esplanada Row 1"
+"306","ACL-11730","IV_281","PHA-IV-281-3",0.709210075475844,27.8694812277914,"1 rib frag",NA,"bone","IV","middle-old adult","ambiguous","prone"
+"307","ACL-11791","IV_761","PHA-IV-761-2",0.709210953494127,30.9300442868792,"R. rib frag",NA,"bone","IV","young adult","female",NA
+"308","ACL-11716","IV_202","PHA-IV-202-3",0.709211455064489,26.1223733687991,"r rib frag",NA,"bone","IV","middle-old adult","male",NA
+"309","ACL-11700","IV_027","PHA-IV-027-2",0.709211976356269,25.9612573746,"unidentified long bone frag",NA,"bone","IV","middle-old adult","male",NA
+"310","ACL-11317","XI_1387","PBP-349",0.709212040260143,26.2166959891757,"fibula",NA,"bone","XI","adult","possible male","Esplanada Row 2"
+"311","ACL-11325","XI_1277","PBP-378",0.709212147228299,26.257685863272,"l humerus",NA,"bone","XI","adult","indeterminate","Esplanada Row 3"
+"312","ACL-11319","XI_1389","PBP-357",0.709212159369355,35.3678904248022,"fibula",NA,"bone","XI","adult","possible male","Esplanada Row 2"
+"313","ACL-11896","XI_1376","PBP-223",0.709212435235767,34.3680704949123,"LLI2","I2","tooth","XI","young adult","male","Esplanada Row 1"
+"314","ACL-11291","XI_1364","PBP-189",0.709212766826681,34.6969868901971,"fibula",NA,"bone","XI","young adult","male","Esplanada Row 1"
+"315","ACL-12082","IV_674","PHA-IV-674-1b",0.709213345851211,34.4153298041739,"left temporal fragment",NA,"bone","IV","adult","possible male",NA
+"316","ACL-11881","XI_1285","PBP-309",0.709214165076405,37.6346778291893,"rib",NA,"bone","XI","adult","indeterminate","Esplanada Row 3"
+"317","ACL-11696","5_198","PHA-5-198-2",0.709216836491181,19.344136359547,"2 L. rib frags",NA,"bone","5","middle-old adult","male","prone"
+"318","ACL-11324","XI_1276","PBP-375",0.709220372878268,13.2300417706886,"r femur",NA,"bone","XI","young adult","possible male","Esplanada Row 3"
+"319","ACL-11898","XI_1354","PBP-149",0.709221639122585,10.3583497968822,"LRM2","M2","tooth","XI","middle adult","indeterminate","Esplanada Row 1"
+"320","ACL-12083","IV_692","PHA-IV-692-1b",0.709223365927518,34.1242294631828,"right temporal fragment",NA,"bone","IV","young adult","male",NA
+"321","ACL-10575","XI_1267","PBP-014",0.709228207559136,NA,"URM2","M2","tooth","XI","young adult","possible male","Esplanada Row 2"
+"322","ACL-11795","IX_826","PHA-IX-826-2",0.709228803891609,13.1140897685786,"URM1","M1","tooth","IX","young adult","male","CMB 8"
+"323","ACL-12075","IV_599","PHA-IV-599-1b",0.709230727883564,27.3961105951732,"right temporal fragment",NA,"bone","IV","young adult","male",NA
+"324","ACL-11860","XI_1375","PBP-218",0.70923355503472,28.3760415586064,"rib",NA,"bone","XI","old adult","possible male","Esplanada Row 1"
+"325","ACL-11942","IV_472","PHA-IV-472-2",0.70923379845889,10.9297811911947,"URM3","M3","tooth","IV","young-middle adult","male",NA
+"326","ACL-12055","IV_247","PHA-IV-247-1b",0.709236437050955,34.9939153605611,"left temporal fragment",NA,"bone","IV","young adult","possible male",NA
+"327","ACL-11734","IV_359","PHA-IV-359-2",0.709237277405113,21.1506756312511,"L. rib frag",NA,"bone","IV","adult","possible male","prone"
+"328","ACL-11405b","XI_1387","PBP-347",0.709237652878545,19.3800483617944,"URC","C","tooth","XI","adult","possible male","Esplanada Row 2"
+"329","ACL-12078","IV_623","PHA-IV-623-1b",0.709243503769815,26.1137360712483,"left temporal fragment",NA,"bone","IV","middle adult","possible female",NA
+"330","ACL-11271","XI_1324","PBP-083",0.70924426267959,32.8819282912319,"fibula",NA,"bone","XI","middle adult","male","Esplanada Row 1"
+"331","ACL-11794","IX_826","PHA-IX-826-1",0.709247684639218,15.3186481509403,"URM3","M3","tooth","IX","young adult","male","CMB 8"
+"332","ACL-11397b","XI_1324","PBP-080",0.709261139285653,25.4463808335533,"URI1","I1","tooth","XI","middle adult","male","Esplanada Row 1"
+"333","ACL-11949","IV_646","PHA-IV-646-2",0.709262117264197,13.0117556317286,"LLM1","M1","tooth","IV","young adult","possible male",NA
+"334","ACL-11394b","XI_1361","PBP-179",0.709262753432154,17.4955970820914,"LRI1","I1","tooth","XI","middle adult","possible male","Esplanada Row 1"
+"335","ACL-11417b","XI_1385","PBP-408",0.709269500917555,NA,"ULM1","M1","tooth","XI","non-adult","indeterminate","Esplanada Row 3"
+"336","ACL-11715","IV_202","PHA-IV-202-2",0.709272668775373,17.6814891917396,"URM1","M1","tooth","IV","middle-old adult","male",NA
+"337","ACL-11690","5_167","PHA-5-167-1",0.709282271518815,NA,"LLC","C","tooth","5","young adult","male",NA
+"338","ACL-11763","IV_555","PHA-IV-555-1",0.709283727763279,17.7499836493718,"URM3","M3","tooth","IV","adult","possible male",NA
+"339","ACL-11757","IV_521","PHA-IV-521-2",0.709302754978851,13.7745580210209,"URC","C","tooth","IV","young-middle adult","possible male",NA
+"340","ACL-11767","IV_559","PHA-IV-559-1",0.709305381891754,24.2447882202994,"ULM1","M1","tooth","IV","adult","male","CMB 3"
+"341","ACL-11921","IV_560","PHA-IV-560-2",0.70931269621399,38.2364534985938,"URM1","M1","tooth","IV","young adult","male","CMB 3"
+"342","ACL-11703","IV_096","PHA-IV-096-1",0.709314385894785,22.3740767187841,"ULP2","P2","tooth","IV","young-middle adult","possible male","prone"
+"343","ACL-11907","IV_372","PHA-IV-372-2",0.709319741577272,13.9176233551344,"LRM3","M3","tooth","IV","adult","male",NA
+"344","ACL-11930","IV_102","PHA-IV-102-2",0.709324330315773,14.8589069635876,"ULM2","M2","tooth","IV","middle-old adult","male",NA
+"345","ACL-11420b","XI_1277","PBP-376",0.709344219195814,19.2028639265417,"LLM3","M3","tooth","XI","adult","indeterminate","Esplanada Row 3"
+"346","ACL-11748","XI_1375","PBP-215",0.709349560879116,NA,"ULM3","M3","tooth","XI","old adult","possible male","Esplanada Row 1"
+"347","ACL-11741","IV_396","PHA-IV-396-1",0.709367919863958,17.8375104490468,"ULM1","M1","tooth","IV","middle-old adult","male",NA
+"348","ACL-11408b","XI_1370","PBP-334",0.709384121491787,16.7364709893134,"ULM2","M2","tooth","XI","adult","possible male","Esplanada Row 2"
+"349","ACL-11714","IV_202","PHA-IV-202-1",0.709424819565001,17.7096859069867,"ULM3","M3","tooth","IV","middle-old adult","male",NA
+"350","ACL-11947","IV_619","PHA-IV-619-2",0.709438463132521,12.544916167491,"LLM2","M2","tooth","IV","young adult","male","CMB 1"
+"351","ACL-11792","IV_782","PHA-IV-782-3",0.709455048640919,16.5838090846378,"LLM1","M1","tooth","IV","young adult","possible female",NA
+"352","ACL-11739","IV_380","PHA-IV-380-1",0.709457675014322,18.26415597178,"URM3","M3","tooth","IV","adult","female",NA
+"353","ACL-11938","IV_265","PHA-IV-265-2",0.709463876143995,15.4945630678482,"URM2","M2","tooth","IV","young adult","male",NA
+"354","ACL-11932","IV_169","PHA-IV-169-2",0.709497016726385,13.4543980730598,"LRP1","P1","tooth","IV","adult","ambiguous",NA
+"355","ACL-11765","IV_556","PHA-IV-556-1",0.709646498716885,19.104213721435,"LRC","C","tooth","IV","adult","possible male","CMB 3"
+"356","ACL-11391b","XI_1382","PBP-250",0.709678793836695,25.5390104390843,"ULM1","M2","tooth","XI","young adult","male","Esplanada Row 1"
+"357","ACL-10585","XI_1285","PBP-024",0.709770786135776,NA,"ULM2","M2","tooth","XI","adult","indeterminate","Esplanada Row 3"
+"358","ACL-11902","XI_1269","PBP-300",0.709814388534943,20.5185196427082,"ULI2","I2","tooth","XI","young adult","male","Esplanada Row 2"
+"359","ACL-11781","IV_692","PHA-IV-692-2",0.709859562283677,21.0497434709046,"ULM1","M1","tooth","IV","young adult","male",NA
+"360","ACL-11410b","XI_1398","PBP-415",0.709920791747212,26.911471244304,"LRC","C","tooth","XI","young adult","indeterminate","Esplanada Row 3"
+"361","ACL-11775","IV_599","PHA-IV-599-2",0.709991938418941,14.2519758457668,"LLC","C","tooth","IV","young adult","male",NA
+"362","ACL-10584","XI_1285","PBP-023",0.710199256827595,NA,"LLM3","M3","tooth","XI","adult","indeterminate","Esplanada Row 3"
+"363","ACL-11738","IV_378","PHA-IV-378-2",0.710242322283038,15.7806424455356,"LRC","C","tooth","IV","young-middle adult","male","double pit"
+"364","ACL-11936","IV_247","PHA-IV-247-2",0.710378785259888,14.9182316372545,"URP1","P1","tooth","IV","young adult","possible male",NA
+"365","ACL-11403b","XI_1215","PBP-036",0.710851089618807,25.4474671431932,"Lower M3","M3","tooth","XI","adult","possible male","Esplanada Row 1"
+"366","ACL-11911","IV_555","PHA-IV-555-2",0.711241375775956,15.8983741306765,"LRM1","M1","tooth","IV","adult","possible male",NA
+"367","ACL-11939","IV_359","PHA-IV-359-1",0.713422927672405,14.3523061226245,"URM3","M3","tooth","IV","adult","possible male","prone"
